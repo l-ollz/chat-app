@@ -32,7 +32,6 @@
 - TypeScript
 - React
 - Styled Components
-- Styled Components
 - Material UI
 - Firebase
 - Vite
